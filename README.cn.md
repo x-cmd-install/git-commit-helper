@@ -4,13 +4,24 @@
 
 Auto generate  && commit  git messages with AI
 
-![git-commit-helper](https://repo.x-cmd.io/git-commit-helper.svg)
+![git-commit-helper](https://repo.x-cmd.io/git-commit-helper.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install git-commit-helper
 ```
+
+## 代码规模
+
+合计: **559** 行代码（覆盖前 5 种语言、共 **8** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 527 | 62 | 43 | 4 |
+| Toml | 32 | 0 | 6 | 1 |
+| Markdown | 0 | 51 | 21 | 1 |
+| Text | 0 | 48 | 16 | 2 |
 
 ## 源代码
 
@@ -23,7 +34,6 @@ x install git-commit-helper
 - **最新版本**: `v0.1.8` (2026-07-17)
 - **最近提交**: 2026-07-17
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-07-17T17:09:29Z
 
 ## 流行度
 
@@ -38,19 +48,21 @@ x install git-commit-helper
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 1 | 0 | 0 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 1 | 0 | 0 | 0 | 0 | 1 |
 | 360d | 2025-09-15 | 2 | 0 | 0 | 0 | 0 | 3 |
+| last720d | 2024-09-20 | 7 | 0 | 0 | 0 | 0 | 54 |
 
-## 代码规模
+## Release 资产
 
-合计: **559** 行代码（覆盖前 5 种语言、共 **8** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 527 | 62 | 43 | 4 |
-| Toml | 32 | 0 | 6 | 1 |
-| Markdown | 0 | 51 | 21 | 1 |
-| Text | 0 | 48 | 16 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [git-commit-helper](https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper) | 3.3 MiB | `other` |
+| [git-commit-helper-aarch64-apple-darwin](https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper-aarch64-apple-darwin) | 3.3 MiB | `native/darwin/arm64` |
+| [git-commit-helper-x86_64-pc-windows-msvc](https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper-x86_64-pc-windows-msvc) | 3.9 MiB | `native/win/x64` |
+| [git-commit-helper-x86_64-unknown-linux-gnu](https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper-x86_64-unknown-linux-gnu) | 4.4 MiB | `native/linux/x64/glibc` |
+| [git-commit-helper.exe](https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper.exe) | 3.9 MiB | `other` |
 
 ## 改进这些数据
 
@@ -61,4 +73,4 @@ git-commit-helper 的安装元数据由 [x-cmd/install](https://github.com/x-cmd
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:49:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:39:41Z._

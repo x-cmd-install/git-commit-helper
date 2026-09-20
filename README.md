@@ -4,7 +4,7 @@
 
 Auto generate  && commit  git messages with AI
 
-![git-commit-helper](https://repo.x-cmd.io/git-commit-helper.svg)
+[![x-cmd/install — git-commit-helper Code Quality Monitoring Repo Card](https://repo.x-cmd.io/git-commit-helper.svg)](https://x-cmd.com/install/git-commit-helper)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **559** lines of code across **8** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-22 | 1 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-23 | 2 | 0 | 0 | 0 | 0 | 3 |
-| last720d | 2024-09-28 | 7 | 0 | 0 | 0 | 0 | 54 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-24 | 1 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-25 | 2 | 0 | 0 | 0 | 0 | 3 |
+| last720d | 2024-09-30 | 7 | 0 | 0 | 0 | 0 | 54 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for git-commit-helper lives in the [x-cmd/install](https://gith
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:46:45Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:10Z._

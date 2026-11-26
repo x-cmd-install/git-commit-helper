@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3512240,
       "digest": "sha256:4df4a3246e387353d2cb5fbc34b8138758c6668e12cdbf20a375d2ab81795a26",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-07-17T17:09:48Z",
       "updated_at": "2026-07-17T17:09:49Z",
       "browser_download_url": "https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4564200,
       "digest": "sha256:397c0ebc3b127096f4857a1af71d6ba518b2c5b0371c9b935ef2dab79781bce2",
-      "download_count": 86,
+      "download_count": 87,
       "created_at": "2026-07-17T17:09:30Z",
       "updated_at": "2026-07-17T17:09:30Z",
       "browser_download_url": "https://github.com/newdee/git-commit-helper/releases/download/v0.1.8/git-commit-helper-x86_64-unknown-linux-gnu"
